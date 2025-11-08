@@ -1,0 +1,22 @@
+Definir Num
+Mostrar: "Ingrese un número que este entre el 0 y el 10"
+Leer Num
+
+CONDICIÓN 1
+Primera condición Verdadera <- Num si es mayor o igual a 0
+Mostrar :"Puede avanzar a la siguiente condición"
+
+Primera condición Falsa <- Num no es mayor o igual a 0
+Mostrar: "El número ingresado no cumple la condición"
+Fin.
+
+CONDICIÓN 2
+Si Primera condición es Verdadera
+Segunda condición Verdadera <- Num si es menor o igual a 10
+Mostrar: "El número ingresado cumple ambas condiciones"
+Fin.
+
+Segunda condición Falsa <- Num no es menor o igual a 10
+Mostrar: "El número ingresado no cumple la condición"
+Fin.
+
